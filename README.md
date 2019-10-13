@@ -1,5 +1,3 @@
-
-
 # HScroll CSS
 
 A dead simple CSS file to create INFINITE HORIZONTAL TEXT SCROLLING 🤙
